@@ -1,5 +1,5 @@
 # thuyvanso
-bảo vệ bản quyền ảnh bằng thủy vân sô (LSB-DCT-DWT)
+bảo vệ bản quyền ảnh bằng thủy vân số (LSB-DCT-DWT)
 
 
 1. Trang chủ
