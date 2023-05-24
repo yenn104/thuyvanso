@@ -1,4 +1,11 @@
-# thuyvanso
+# Ẩn tập tin bằng cmd
+ẩn tập tin test trong ổ D bằng:
+attrib +h D:\test
+
+# Thuật toán SW bằng Python
+trong file SW.ipynb
+
+# Thủy vân số
 bảo vệ bản quyền ảnh bằng thủy vân số (LSB-DCT-DWT)
 
 
